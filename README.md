@@ -8,6 +8,7 @@ Welcome to the official documentation repository for **Webex Contact Center**. T
 
 - [Introduction](#introduction)
 - [Setup & Administration](#setup-administration)
+- [Setup & Config](#setup--config)
 - [Setup & Configuration](#setup--configuration)
   - [Prerequisites](#prerequisites)
   - [Initial Setup](#initial-setup)
@@ -43,6 +44,25 @@ In the voice context, by queuing calls centrally, enterprises can offload the qu
 ## Setup & Administration
 
 Refer to the [Setup & Administration Guide](https://help.webex.com/en-us/article/n5595zd/Webex-Contact-Center-Setup-and-Administration-Guide) for detailed instructions.
+
+---
+
+## Setup & Config
+
+### Prerequisites
+- A Cisco Webex account with administrative privileges.
+- Network and security configurations to allow Webex Contact Center services.
+- Supported browsers: Chrome, Edge, or Firefox.
+
+### Initial Setup
+1. Log in to the **Webex Control Hub**.
+2. Navigate to the **Contact Center** tab.
+3. Complete the onboarding wizard.
+
+### Configuration Steps
+- [Configuring Agents and Queues](docs/config-agents-queues.md)
+- [Integrating CRMs](docs/integrating-crms.md)
+- [Setting Up IVR Flows](docs/setting-up-ivr.md)
 
 ---
 
