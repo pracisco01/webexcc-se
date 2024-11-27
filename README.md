@@ -47,7 +47,7 @@ To begin, you will need:
 - Access to the Webex Control Hub.
 - Basic understanding of contact center concepts.
 
-Refer to the [Setup & Configuration](#setup--configuration) section for detailed instructions.
+Refer to the [Setup & Administration Guide]([#setup--configuration](https://help.webex.com/en-us/article/n5595zd/Webex-Contact-Center-Setup-and-Administration-Guide)) for detailed instructions.
 
 ---
 
