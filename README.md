@@ -40,14 +40,9 @@ In the voice context, by queuing calls centrally, enterprises can offload the qu
 
 ---
 
-## Getting Started
+## Setup and Administration
 
-To begin, you will need:
-- An active Webex Contact Center subscription.
-- Access to the Webex Control Hub.
-- Basic understanding of contact center concepts.
-
-Refer to the [Setup & Administration Guide](https://help.webex.com/en-us/article/n5595zd/Webex-Contact-Center-Setup-and-Administration-Guide)) for detailed instructions.
+Refer to the [Setup & Administration Guide](https://help.webex.com/en-us/article/n5595zd/Webex-Contact-Center-Setup-and-Administration-Guide) for detailed instructions.
 
 ---
 
