@@ -40,7 +40,7 @@ In the voice context, by queuing calls centrally, enterprises can offload the qu
 
 ---
 
-## Setup and Administration
+## Setup & Administration
 
 Refer to the [Setup & Administration Guide](https://help.webex.com/en-us/article/n5595zd/Webex-Contact-Center-Setup-and-Administration-Guide) for detailed instructions.
 
