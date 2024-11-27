@@ -7,7 +7,7 @@ Welcome to the official documentation repository for **Webex Contact Center**. T
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Getting Started](#getting-started)
+- [Setup & Administration](#setup--administration)
 - [Setup & Configuration](#setup--configuration)
   - [Prerequisites](#prerequisites)
   - [Initial Setup](#initial-setup)
