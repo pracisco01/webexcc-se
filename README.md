@@ -7,8 +7,7 @@ Welcome to the official documentation repository for **Webex Contact Center**. T
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Setup & Administration](#setup-administration)
-- [Setup & Config](#setup--config)
+- [Setup & Administration](#setup--administration)
 - [Setup & Configuration](#setup--configuration)
   - [Prerequisites](#prerequisites)
   - [Initial Setup](#initial-setup)
@@ -42,12 +41,6 @@ In the voice context, by queuing calls centrally, enterprises can offload the qu
 ---
 
 ## Setup & Administration
-
-Refer to the [Setup & Administration Guide](https://help.webex.com/en-us/article/n5595zd/Webex-Contact-Center-Setup-and-Administration-Guide) for detailed instructions.
-
----
-
-## Setup & Config
 
 ### Prerequisites
 - A Cisco Webex account with administrative privileges.
